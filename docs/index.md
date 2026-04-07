@@ -1,4 +1,4 @@
-# HWM085_10 Double Heritage
+# HWM085 Double Heritage Manual
 
 ## [English](english) 
 
